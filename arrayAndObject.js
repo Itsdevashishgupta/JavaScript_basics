@@ -1,0 +1,13 @@
+var clothes=[];
+clothes.push("jeans");
+clothes.push("t-shirt");
+clothes.push("shirt");
+clothes.push("pants");
+clothes.push("lower");
+clothes.pop();
+clothes.push("baniyan");
+console.log(clothes[2]);
+var favCar={};
+favCar.color="Blue";
+favCar.covertible=true;
+console.log(favCar);
